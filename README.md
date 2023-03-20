@@ -2,7 +2,7 @@
 sorting algorithm for musculoskeletal radiographs
 
 
-Download trained VGG16 network [https://syncandshare.lrz.de/getlink/fiPkXD85RJz27SSeQKVncQ/]
+Download trained VGG16 network [<https://syncandshare.lrz.de/getlink/fiPkXD85RJz27SSeQKVncQ/>]
 
 
 
